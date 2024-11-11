@@ -66,7 +66,7 @@ Idea 1:
 ## Notes
 **Challenges**
 
-While following the CodePath instructions I had some confusion on where certain features mentioned in teh instrucitons were on XCode
+While following the CodePath instructions I had some confusion on where certain features mentioned in the instructions were on XCode
 
 ## License
 
